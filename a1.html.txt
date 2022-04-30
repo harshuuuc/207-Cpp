@@ -1,8 +1,0 @@
-<html>
-<head>
-<title> My new page</title>
-</head>
-<body>
-Lab on android
-</body>
-</html>
